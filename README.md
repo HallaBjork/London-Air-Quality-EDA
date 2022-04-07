@@ -1,6 +1,6 @@
 ### Introduction to Data Science
 
-# Introduction to Data Science - Practical Exam (50%)
+# London Air Quality 2020
 
 **Dataset:** air_quality_4_boroughs_2020.csv / hourly_wage_by_borough_2020.csv / ethic-group-by-borough_2020.csv
 
