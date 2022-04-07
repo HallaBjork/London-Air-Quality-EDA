@@ -18,9 +18,15 @@ This task was to explore a dataset of hourly London air quality in 2020 for 4 lo
 ### Summary:
 
 • The dataset is a collection of air quality readings for the boroughs of Sutton, Hackney, Lewisham and Barking and Dagenham.
+
 • One of the largest parts of cleaning the dataset was to replace the missing values. There were missing values for the NO, NO2 and NOX for all sites which were replaced with each borough's category mean.
+
 • According to initial information the highest peak of the year was documented in Sutton for all categories and the lowest point in NO. Barking and Dagenham have the lowest NO2 points and Hackney has the lowest NOX point.
+
 • Overall, Sutton has the highest readings in all categories and Barking and Dagenham has the lowest.
+
 • The monthly trend is similar in all boroughs with a spike in late January and appearing lowest during spring time.
+
 • The boroughs with the largest proportion of ethnic minority groups has the least pollution
+
 • The boroughs with the lowest hourly wages have the least pollution. There is a correlation between higher hourly wages and more pollution.
