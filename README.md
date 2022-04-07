@@ -17,7 +17,7 @@ This task was to explore a dataset of hourly London air quality in 2020 for 4 lo
 
 ### Summary:
 
-• The dataset is a collection of air quality readings for the boroughs of Sutton, Hackney, Lewisham and Barking and Dagenham.
+- The dataset is a collection of air quality readings for the boroughs of Sutton, Hackney, Lewisham and Barking and Dagenham.
 
 • One of the largest parts of cleaning the dataset was to replace the missing values. There were missing values for the NO, NO2 and NOX for all sites which were replaced with each borough's category mean.
 
